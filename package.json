@@ -19,7 +19,6 @@
     "gulp-uglify": "^2.0.1"
   },
   "scripts": {
-    "start": "node app",
-    "postinstall": "gulp default"
+    "postinstall": "gulp"
   },
 }
