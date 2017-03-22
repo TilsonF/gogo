@@ -19,6 +19,6 @@
     "gulp-uglify": "^2.0.1"
   },
   "scripts": {
-    "postinstall": "gulp"
+    "start": "node node_modules/.bin/gulp"
   },
 }
